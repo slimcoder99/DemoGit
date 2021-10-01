@@ -3,3 +3,5 @@ Control + O is the shortcut for "WriteOut", which saves modifications, but does 
 I assume you already know this, but in case you don't, when I say Control + X (for example) it means press the control key and the X key, but do not press the + key
 
 Also if (as you say) when you press Control + O it just writes the text "o" to screen, your keyboard may have a damaged Control Key, or you may have remapped your control key to do something else in software. You can try a different keyboard, and make sure you don't have any keyboard remapping software active.
+How to become a good boyfriend
+No solution for this problem!!!
